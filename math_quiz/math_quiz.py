@@ -46,7 +46,8 @@ def calculate_result(n1, n2, o):
 
 def math_quiz():
     """
-    main function
+    The `math_quiz` function generates math problems for the user to solve and keeps track of their
+    score.
     """
     total_points = 0 # counter for points
     total_questions = 3 # total questions to be generated
